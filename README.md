@@ -1,0 +1,1 @@
+# SQLBAsic_Hackerrank
